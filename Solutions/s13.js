@@ -1,4 +1,4 @@
-//
+//https://edabit.com/challenge/Q3n42rEWanZSTmsJm
 
 function minMax(arr) {
     if (arr.length === 0) {
